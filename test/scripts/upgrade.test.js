@@ -8,7 +8,7 @@ import add from '../../src/scripts/add.js';
 import push from '../../src/scripts/push.js';
 import bumpVersion from '../../src/scripts/bump.js';
 import create from '../../src/scripts/create.js';
-import upgradeProxy from '../../src/scripts/upgrade.js';
+import upgradeProxy from '../../src/scripts/update.js';
 import ZosPackageFile from "../../src/models/files/ZosPackageFile";
 
 const ImplV1 = Contracts.getFromLocal('ImplV1')

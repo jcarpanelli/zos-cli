@@ -1,6 +1,6 @@
 'use strict';
 
-import upgrade from '../scripts/upgrade'
+import upgrade from '../scripts/update'
 import runWithTruffle from '../utils/runWithTruffle'
 import { parseInit } from '../utils/input'
 
